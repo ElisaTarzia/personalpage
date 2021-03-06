@@ -1,0 +1,63 @@
+body {
+text-align: center;
+font-family: Monaco;
+background-image: url(Images/pen.jpg);
+background-size: cover;
+}
+
+h1 {
+	font-family: Gill Sans;
+	font-size: 60px;
+	padding-top: 30px;
+	margin-bottom: 20px;
+}
+#one {
+	font-size: 20px;
+	color: #FB5D6D;
+	font-family: Didot;
+	margin-bottom: 35px;
+}
+
+h2 {
+	font-family: Gill Sans;
+	font-size: 35px;
+	margin-bottom: 20px;
+}
+
+#two {
+	font-size: 18px;
+	color: #FB5D6D;
+	font-family: Didot;
+	padding-right: 280px;
+	padding-left: 280px;;
+	margin-bottom: 50px
+}
+
+.button {
+	font-family: Gill sans;
+	font-size: 20px;
+	text-decoration: none;
+	background-color: black;
+	color: white;
+	padding: 10px 15px 10px 15px;
+	border-radius: 4px;
+}
+
+.button:hover {
+	background-color: #FB5D6D;
+}
+
+.list {
+	list-style: none;
+	padding-left: 0px;
+	margin-top: 185px;
+}
+
+.list li {
+	display: inline;
+}
+
+.list a {
+	color: #06597B;
+	font-size: 25px;
+}
